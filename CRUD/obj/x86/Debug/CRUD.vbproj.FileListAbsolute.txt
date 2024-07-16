@@ -1,0 +1,28 @@
+D:\Project VB\CRUD (3)\CRUD\CRUD\bin\Debug\CRUD.exe
+D:\Project VB\CRUD (3)\CRUD\CRUD\bin\Debug\CRUD.pdb
+D:\Project VB\CRUD (3)\CRUD\CRUD\bin\Debug\CRUD.xml
+D:\Project VB\CRUD (3)\CRUD\CRUD\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Project VB\CRUD (3)\CRUD\CRUD\obj\x86\Debug\CRUD.vbproj.GenerateResource.Cache
+D:\Project VB\CRUD (3)\CRUD\CRUD\obj\x86\Debug\CRUD.exe
+D:\Project VB\CRUD (3)\CRUD\CRUD\obj\x86\Debug\CRUD.xml
+D:\Project VB\CRUD (3)\CRUD\CRUD\obj\x86\Debug\CRUD.pdb
+D:\Project VB\CRUD (3)\CRUD ( Tambah Pencarian Text)\CRUD\obj\x86\Debug\CRUD.exe
+D:\Project VB\CRUD (3)\CRUD ( Tambah Pencarian Text)\CRUD\obj\x86\Debug\CRUD.xml
+D:\Project VB\CRUD (3)\CRUD ( Tambah Pencarian Text)\CRUD\obj\x86\Debug\CRUD.pdb
+D:\Project VB\CRUD (3)\CRUD ( Tambah Pencarian Text)\CRUD\bin\Debug\CRUD.exe
+D:\Project VB\CRUD (3)\CRUD ( Tambah Pencarian Text)\CRUD\bin\Debug\CRUD.pdb
+D:\Project VB\CRUD (3)\CRUD ( Tambah Pencarian Text)\CRUD\bin\Debug\CRUD.xml
+D:\Project VB\CRUD (3)\CRUD ( Tambah Pencarian Text)\CRUD\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\Project VB\CRUD (3)\CRUD ( Tambah Pencarian Text)\CRUD\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Project VB\CRUD (3)\CRUD ( Tambah Pencarian Text)\CRUD\obj\x86\Debug\CRUD.vbproj.GenerateResource.Cache
+D:\Project VB\CRUD (3)\CRUD ( Tambah Pencarian Text)\CRUD\obj\x86\Debug\WindowsApplication1.DaftarMahasiswa.resources
+D:\Project VB\CRUD (3)\CRUD ( Tambah Pencarian Text dan Refresh)\CRUD\obj\x86\Debug\CRUD.exe
+D:\Project VB\CRUD (3)\CRUD ( Tambah Pencarian Text dan Refresh)\CRUD\obj\x86\Debug\CRUD.xml
+D:\Project VB\CRUD (3)\CRUD ( Tambah Pencarian Text dan Refresh)\CRUD\obj\x86\Debug\CRUD.pdb
+D:\Project VB\CRUD (3)\CRUD ( Tambah Pencarian Text dan Refresh)\CRUD\bin\Debug\CRUD.exe
+D:\Project VB\CRUD (3)\CRUD ( Tambah Pencarian Text dan Refresh)\CRUD\obj\x86\Debug\WindowsApplication1.DaftarMahasiswa.resources
+D:\Project VB\CRUD (3)\CRUD ( Tambah Pencarian Text dan Refresh)\CRUD\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\Project VB\CRUD (3)\CRUD ( Tambah Pencarian Text dan Refresh)\CRUD\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Project VB\CRUD (3)\CRUD ( Tambah Pencarian Text dan Refresh)\CRUD\obj\x86\Debug\CRUD.vbproj.GenerateResource.Cache
+D:\Project VB\CRUD (3)\CRUD ( Tambah Pencarian Text dan Refresh)\CRUD\bin\Debug\CRUD.pdb
+D:\Project VB\CRUD (3)\CRUD ( Tambah Pencarian Text dan Refresh)\CRUD\bin\Debug\CRUD.xml
